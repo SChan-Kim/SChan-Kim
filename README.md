@@ -10,7 +10,7 @@ Interested in **Mobile App Developer** using iOS, Machine Learning.
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SChan-Kim&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungchann&show_icons=true)  
 
 #### 📬 **Contact**  
 
