@@ -3,6 +3,7 @@
 I’m Seungchan-Kim.  
 Major in **Computer Science Engineering** & Human Factors Engineering.  
 Interested in **Mobile App Developer** using iOS, Machine Learning.  
+[About Me](https://bit.ly/seungchann)
 
 #### 🛠️	**Languages & Tools**  
 
